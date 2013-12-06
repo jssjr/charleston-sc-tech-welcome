@@ -9,10 +9,16 @@
 - Tech After 5 - http://techafterfive.com/ta5/charleston-sc/
 - Charleston Uber User Group - https://plus.google.com/u/0/communities/109291424733517240577
 - Refresh Charleston - http://refreshchs.eventbrite.com/
+- Charleston ISSA - http://charleston-issa.org/
 
 # Events
 
-- http://www.chscodecamp.com/
+- Charleston Code Camp - http://www.chscodecamp.com/
+- Code Show - http://www.chscodeshow.com/
+- Barcamp Charleston - http://www.barcampchs.org/
+- Dig South - http://www.digsouth.com/
+- Giant Conference - http://www.giantconf.com/
+
 
 # Business Initiatives/Partnerships
 

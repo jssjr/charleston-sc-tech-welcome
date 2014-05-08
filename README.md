@@ -10,6 +10,8 @@
 - Charleston Uber User Group - https://plus.google.com/u/0/communities/109291424733517240577
 - Refresh Charleston - http://refreshchs.eventbrite.com/
 - Charleston ISSA - http://charleston-issa.org/
+- Women Who Code Charleston - http://www.meetup.com/Women-Who-Code-Charleston/
+- Charleston PyLadies - http://charleston.pyladies.com/
 
 # Events
 
@@ -18,6 +20,7 @@
 - Barcamp Charleston - http://www.barcampchs.org/
 - Dig South - http://www.digsouth.com/
 - Giant Conference - http://www.giantconf.com/
+- Wordcamp Charleston - http://2014.charleston.wordcamp.org/
 
 
 # Business Initiatives/Partnerships

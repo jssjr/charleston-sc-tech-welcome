@@ -9,6 +9,7 @@
 - Charleston PyLadies - http://charleston.pyladies.com/
 - CSLUG - http://www.charlestonlinux.org/
 - Charleston Uber User Group - https://plus.google.com/u/0/communities/109291424733517240577
+- Dot Net Meetup - http://www.meetup.com/Charleston-NET-User-Group/
 - Refresh Charleston - http://refreshchs.eventbrite.com/
 - Tech After 5 - http://techafterfive.com/ta5/charleston-sc/
 - Women Who Code Charleston - http://www.meetup.com/Women-Who-Code-Charleston/

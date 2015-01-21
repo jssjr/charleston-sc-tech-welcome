@@ -31,6 +31,10 @@
 - http://www.charlestonflagship.com/
 - http://charlestonparliament.com/pecha-kucha/
 
+# Directories of Local Tech Companies
+
+- http://www.charlestonworks.com/
+
 # News
 
 - http://www.fastcompany.com/1839445/introducing-silicon-harbor-charleston-sc-home-twitpic-and-amazons-createspace

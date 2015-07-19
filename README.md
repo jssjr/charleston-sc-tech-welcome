@@ -23,6 +23,7 @@
 - Dig South - http://www.digsouth.com/
 - Giant Conference - http://www.giantconf.com/
 - Wordcamp Charleston - http://2014.charleston.wordcamp.org/
+- SPARC Hackathon - http://hackathon.sparcedge.com/
 
 
 # Business Initiatives/Partnerships

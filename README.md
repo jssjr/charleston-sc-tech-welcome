@@ -28,13 +28,14 @@
 
 # Business Initiatives/Partnerships
 
-- http://www.charlestondigitalcorridor.com/
-- http://www.charlestonflagship.com/
-- http://charlestonparliament.com/pecha-kucha/
+- Charleston Digital Corridor - http://www.charlestondigitalcorridor.com/
+- Flagship - http://www.charlestonflagship.com/
+- Pecha Kucha - http://charlestonparliament.com/pecha-kucha/
 
 # Directories of Local Tech Companies
 
-- http://www.charlestonworks.com/
+- Charleston Works - http://www.charlestonworks.com/
+- Charleston Tech Map - http://boomtownroi.com/chstechmap/
 
 # News
 

@@ -25,7 +25,7 @@
 - Giant Conference - http://www.giantconf.com/
 - Wordcamp Charleston - http://2014.charleston.wordcamp.org/
 - SPARC Hackathon - http://hackathon.sparcedge.com/
-- Nodebots Day Charleston - http://nodebotsdaychs.github.io/
+- Nodebots Day Charleston - http://nodebotschs.github.io/
 
 
 # Business Initiatives/Partnerships

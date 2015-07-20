@@ -4,12 +4,13 @@
 - Charleston Technology Group - http://www.meetup.com/Charleston-Technology-Group/
 - Agile Charleston - http://www.linkedin.com/groups?home=&gid=3912895&trk=anet_ug_hm
 - Charleston ISSA - http://charleston-issa.org/
-- Charleston Ruby - http://www.charlestonruby.org/
+- Charleston Ruby - http://www.meetup.com/The-Iron-Yard-Charleston/events/220762519/
 - Charleston Tech Space - https://plus.google.com/u/0/communities/102647047025676704509
 - Charleston PyLadies - http://charleston.pyladies.com/
 - CSLUG - http://www.charlestonlinux.org/
 - Charleston Uber User Group - https://plus.google.com/u/0/communities/109291424733517240577
 - Dot Net Meetup - http://www.meetup.com/Charleston-NET-User-Group/
+- Hack Night Charleston - http://www.meetup.com/The-Iron-Yard-Charleston/events/220130863/
 - Refresh Charleston - http://refreshchs.eventbrite.com/
 - Tech After 5 - http://techafterfive.com/ta5/charleston-sc/
 - Women Who Code Charleston - http://www.meetup.com/Women-Who-Code-Charleston/
@@ -24,6 +25,7 @@
 - Giant Conference - http://www.giantconf.com/
 - Wordcamp Charleston - http://2014.charleston.wordcamp.org/
 - SPARC Hackathon - http://hackathon.sparcedge.com/
+- Nodebots Day Charleston - http://nodebotsdaychs.github.io/
 
 
 # Business Initiatives/Partnerships

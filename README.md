@@ -3,7 +3,7 @@
 - MakeLab Charleston - http://www.meetup.com/Makelab-Charleston/
 - Charleston Technology Group - http://www.meetup.com/Charleston-Technology-Group/
 - Agile Charleston - http://www.linkedin.com/groups?home=&gid=3912895&trk=anet_ug_hm
-- Charleston ISSA - http://charleston-issa.org/
+- Charleston ISSA - http://www.charlestonissa.org/
 - Charleston Ruby - http://www.meetup.com/The-Iron-Yard-Charleston/events/220762519/
 - Charleston Tech Space - https://plus.google.com/u/0/communities/102647047025676704509
 - Charleston PyLadies - http://charleston.pyladies.com/

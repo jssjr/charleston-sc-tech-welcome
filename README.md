@@ -24,7 +24,7 @@
 
 - Barcamp Charleston - http://www.barcampchs.org/
 - Charleston Code Camp - http://www.chscodecamp.com/
-- Code Show - http://www.chscodeshow.com/
+- Code Show - https://www.codeshowse.com/
 - Dig South - http://www.digsouth.com/
 - Giant Conference - http://www.giantconf.com/
 - Nodebots Day Charleston - http://nodebotschs.github.io/

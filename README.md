@@ -3,7 +3,7 @@
 - Agile Charleston - http://www.linkedin.com/groups?home=&gid=3912895&trk=anet_ug_hm
 - Amazon Web Services (AWS) and Blue Sentry IT - http://www.meetup.com/Amazon-Web-Services-AWS-and-Blue-Sentry-IT/
 - Charleston Indie Game Developers - http://www.meetup.com/Charleston-Indie-Game-Dev-Meetup/
-- Charleston ISSA - http://charleston-issa.org/
+- Charleston ISSA - http://www.charlestonissa.org/
 - Charleston Ruby - http://www.meetup.com/The-Iron-Yard-Charleston/events/220762519/
 - Charleston Tech Space - https://plus.google.com/u/0/communities/102647047025676704509
 - Charleston Technology Group - http://www.meetup.com/Charleston-Technology-Group/

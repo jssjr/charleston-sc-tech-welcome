@@ -45,6 +45,7 @@
 
 - Charleston Tech Map - http://boomtownroi.com/chstechmap/
 - Charleston Works - http://www.charlestonworks.com/
+- Charleston Technology - http://charlestontechnology.com/companies/
 
 # News
 

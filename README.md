@@ -2,6 +2,7 @@
 
 - Agile Charleston - http://www.linkedin.com/groups?home=&gid=3912895&trk=anet_ug_hm
 - Amazon Web Services (AWS) and Blue Sentry IT - http://www.meetup.com/Amazon-Web-Services-AWS-and-Blue-Sentry-IT/
+- Charleston Data Analytics - https://www.meetup.com/Charleston-Data-Analytics/
 - Charleston Indie Game Developers - http://www.meetup.com/Charleston-Indie-Game-Dev-Meetup/
 - Charleston ISSA - http://www.charlestonissa.org/
 - Charleston JS - http://www.meetup.com/CharlestonJS/
@@ -12,6 +13,7 @@
 - CSLUG - http://www.charlestonlinux.org/
 - Charleston Uber User Group - https://plus.google.com/u/0/communities/109291424733517240577
 - Dot Net Meetup - http://www.meetup.com/Charleston-NET-User-Group/
+- Functional SC - https://www.meetup.com/Functional-SC
 - Hack Night Charleston - http://www.meetup.com/The-Iron-Yard-Charleston/events/220130863/
 - MakeLab Charleston - http://www.meetup.com/Makelab-Charleston/
 - Reforge Charleston - http://www.meetup.com/reforgechas/
